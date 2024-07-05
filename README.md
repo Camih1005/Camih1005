@@ -40,9 +40,7 @@
    <a href="https://www.w3.org/java/" target="_blank"> 
  <a href="https://emoji.gg/emoji/java"><img src="https://cdn3.emoji.gg/emojis/java.png" width="40px" height="40px" alt="java"></a>
  </a>
-   <a href="https://www.w3.org/java/" target="_blank"> 
- <a href="https://emoji.gg/emoji/java"><img src="[https://cdn3.emoji.gg/emojis/java.png](https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw)" width="40px" height="40px" alt="java"></a>
- </a>
+ 
 </p>
 
 <p align= "center">
