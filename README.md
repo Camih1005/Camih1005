@@ -50,6 +50,6 @@
 
 ------
 
-[Camilo Hernandez]([https://github.com/BrantLauro](https://github.com/Camih1005)
+[Camilo Hernandez](https://github.com/Camih1005)
 
 Last Edited on: 05/08/2021
